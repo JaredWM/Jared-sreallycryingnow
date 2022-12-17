@@ -1,0 +1,31 @@
+header img {
+    height: 500px;
+    width: 1000px;
+    vertical-align: middle;
+    background-color: darkgrey;
+}
+
+
+body{
+    background-color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    font-family: 'Chivo Mono', monospace;
+    font-size: large;
+    color: aliceblue;
+    
+    
+    
+}
+li{
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{background-color: grey;}
+
+.sub{
+    font-weight: bold;
+    font-style: italic;
+}
